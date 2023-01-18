@@ -2,8 +2,6 @@ from os import path
 import pandas as pd
 from readCSV import readCSV
 
-#this is a new comment
-
 #SCRIPT
 filepath = r'C:\NSCF\Ian\GeorefToolToBODATSA' #empty string if local directory
 filename = "PRE Senecio Marinda_georeferences2022-11-21T14_53_13.368Z_QDSUpdates_llResUpdates.csv"
